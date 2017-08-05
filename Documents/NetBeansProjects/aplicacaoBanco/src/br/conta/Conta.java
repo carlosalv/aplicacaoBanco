@@ -7,4 +7,11 @@ package br.conta;
  */
 public class Conta {
     private int saldo;
+
+
+public void pegarSaldo(){
+
+}
+
+
 }
