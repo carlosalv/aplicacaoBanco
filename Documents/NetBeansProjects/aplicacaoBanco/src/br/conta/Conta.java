@@ -13,5 +13,10 @@ public void pegarSaldo(){
 
 }
 
+public void depositar(){
+ 
+    
+    
+}
 
 }
