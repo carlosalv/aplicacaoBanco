@@ -5,7 +5,7 @@ package br.conta;
  *
  * @author Carlos
  */
-public class Conta {
+public  class Conta {
     private float saldo;
         //pegar saldo
     public float getSaldo() {
@@ -29,8 +29,8 @@ public class Conta {
     
 }
 
-    public void atualizaSaldo(){
-       
+    public void  atualizaSaldo(float saldo){
+     
         
         
            
